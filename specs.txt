@@ -1,0 +1,3 @@
+Specifications:
+
+When a client brings books in for CREDIT (cash paid by DB is outside the scope of this project), they get either REGULAR CREDIT or ROMANCE credit.  When they come back to BUY books, they can use their romance credit ONLY to buy romance books. They can use their regular credit to buy either kind of book. They do not get any discount or other advantage if they use regular credit to buy romance books. 
